@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="App.Starting.Theme" parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">#FF1F2329</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/weather_black</item>
+        <item name="postSplashScreenTheme">@style/Theme.WeatherApp_JPCompose</item>
+
+    </style>
+
+</resources>
